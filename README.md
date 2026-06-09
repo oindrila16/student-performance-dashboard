@@ -94,3 +94,7 @@ student-performance-dashboard/
 * Real-time prediction system
 * Downloadable reports in CSV and PDF format
 
+
+**Login Credentials**
+Username: admin
+Password: admin
