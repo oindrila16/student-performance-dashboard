@@ -96,5 +96,6 @@ student-performance-dashboard/
 
 
 **Login Credentials**
-Username: admin
+
+Username: admin,
 Password: admin
